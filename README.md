@@ -9,4 +9,4 @@ Owner of Ecommerce store wants us to help them create a dashboard to track and a
 - Dashboard design
 - Sharing insights
 
-[Dashboard](https://github.com/MansiAgrawal26/Ecommerce_Sales_Dashboard_PowerBI/blob/master/Ecommerce%20Sales%20Dashboard.jpg)
+![Dashboard](https://github.com/MansiAgrawal26/Ecommerce_Sales_Dashboard_PowerBI/blob/master/Ecommerce%20Sales%20Dashboard.jpg)
